@@ -1,0 +1,26 @@
+# Environment variables and secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated data
+data/raw/
+data/processed/
+logs/
+
+# Large datasets
+datasets/*.csv
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
